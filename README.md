@@ -1,9 +1,9 @@
-## Hi there 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=002597&background=FFFFFF00&center=true&vCenter=true&width=438&height=51&lines=Antonio+Cotrina+Polo" alt="Typing SVG" /></a>
 
 <!--
 **AntonioC2421/AntonioC2421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=002597&background=FFFFFF00&center=true&vCenter=true&width=438&height=51&lines=Antonio+Cotrina+Polo" alt="Typing SVG" /></a>
+
 
 Here are some ideas to get you started:
 
