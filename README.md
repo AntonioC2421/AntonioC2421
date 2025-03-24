@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tektur&size=25&pause=1000&color=002597&background=FFFFFF00&multiline=true&repeat=false&width=438&height=51&lines=%C2%A1Hola%2C+soy+Antonio+Cotrina+Polo!" alt="Typing SVG" /></a>
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tektur&size=25&pause=1000&color=002597&background=FFFFFF00&multiline=true&repeat=false&width=438&height=51&lines=%C2%A1Hola%2C+soy+Antonio+Cotrina+Polo!" alt="Typing SVG" /></a>
 
 💻 Titulado en **Analista Programador**, apasionado por la tecnología y el desarrollo de software.  
 🚀 Buscando **crecimiento y expansión** de mis conocimientos en el mundo del desarrollo.  
