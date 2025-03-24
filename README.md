@@ -5,9 +5,14 @@
 Soy un apasionado desarrollador con experiencia en Python, JavaScript y frameworks como Django y React. Me encanta aprender nuevas tecnologías y compartir mis conocimientos con la comunidad.
 
 ---
-## 🛠️ Tecnologías que manejo:
+## 🚀 Tecnologías y Herramientas
 
-- 🐍 **Python**: Desarrollo backend con Django y Flask.  
-- ⚛️ **React**: Aplicaciones web interactivas y dinámicas.  
-- 🌱 **Django**: Creación de API REST y desarrollo web.  
-- 🛠️ **Git & GitHub**: Control de versiones y colaboración en proyectos. 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+
+## 📫 Contacto:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Antonio-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tuusuario)
+[![GitHub](https://img.shields.io/badge/GitHub-AntonioC2421-black?style=for-the-badge&logo=github)](https://github.com/AntonioC2421)
