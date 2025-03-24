@@ -1,1 +1,1 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=002597&background=FFFFFF00&center=true&vCenter=true&width=438&height=51&lines=Antonio+Cotrina+Polo" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=002597&background=FFFFFF00&center=true&vCenter=true&random=true&width=438&height=51&lines=Antonio+Cotrina+Polo;Analista+Programador;Desarrollador+Web" alt="Typing SVG" /></a>
