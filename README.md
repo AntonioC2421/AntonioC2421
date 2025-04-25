@@ -29,4 +29,3 @@
 
 ## 📫 Contacto:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Antonio-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/antonio-cotrina-polo-64b9b5316/)
-[![GitHub](https://img.shields.io/badge/GitHub-AntonioC2421-black?style=for-the-badge&logo=github)](https://github.com/AntonioC2421)
